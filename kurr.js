@@ -52,7 +52,7 @@ const Math_js = require('mathjs')
 const { EmojiAPI } = require("emoji-api")
 const crypto = require('crypto')
 const emoji = new EmojiAPI()
-const speed = require('performance-now')
+const speed = require('-now')
 const { color, bgcolor } = require('./lib/color')
 const { antiSpam } = require('./lib/antispam')
 const { exec } = require('child_process')
@@ -139,14 +139,14 @@ publik = true
 bugc = true
 waktuafk = 'Nothing'
 alasanafk = 'Nothing'
-const ownerNumber = settings.ownerNumber
-NamaBot = settings.NamaBot
-NomorOwner = settings.NomorOwner
-NomorOwner2 = settings.NomorOwner2
-NamaOwner = settings.NamaOwner
-pulsa = settings.Pulsa
-dana = settings.Dana
-gopay = settings.Gopay
+const ownerNumber = settings.6285950471442
+NamaBot = settings.TzyDin X Botz
+NomorOwner = settings.6285950471442
+NomorOwner2 = settings.6285950471442
+NamaOwner = settings.OwnerTzyDin
+pulsa = settings.085798328466
+dana = settings.085798328466
+gopay = settings.MINTA OWNER
 multi = true
 nopref = false
 
@@ -1456,7 +1456,7 @@ kurr.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mention
                            },
                            {
                               "title": "SEWABOT",
-                              "description": '•|----Rent Bot----|•',
+                         =     "description": '•|----Rent Bot----|•',
                               "rowId": ""
                             
                            },
